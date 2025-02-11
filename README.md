@@ -4,4 +4,4 @@ Optical coherence tomography (OCT), an interferometric imaging technique, provid
 ![Figure1a-c](https://github.com/user-attachments/assets/03c899be-7314-461c-93a4-ca3b317e6514)
 
 ---
-Lee, Woojin, et al. "Deep learning-based image enhancement in optical coherence tomography by exploiting interference fringe." Communications Biology 6.1 (2023): 464.
+[Lee, Woojin, et al. "Deep learning-based image enhancement in optical coherence tomography by exploiting interference fringe." Communications Biology 6.1 (2023): 464.](https://www.nature.com/articles/s42003-023-04846-7)
